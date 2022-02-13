@@ -113,6 +113,8 @@ pv i8
 W
 display a
 ```
+
+## Sample Game Instance
 ![alt text](https://github.com/mspardinas/Game-of-the-Generals/blob/master/readme-images/display_all.png)
 
 ## Playing
